@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "fullName": "Nguyễn Văn Nam",
+      "address": "13 Mai Động",
+      "phone": "0987777123",
+      "username": "nam1234",
+      "password": "nam1234"
+    },
+    {
+      "id": "2",
+      "fullName": "Trần Thị Hoa",
+      "address": "56 Kim Mã",
+      "phone": "0912345678",
+      "username": "hoa5678",
+      "password": "hoa567"
+    },
+    {
+      "id": "3",
+      "fullName": "Lê Minh Tùng",
+      "address": "123 Nguyễn Trãi",
+      "phone": "0908765432",
+      "username": "tung1234",
+      "password": "tung123"
+    },
+    {
+      "id": "8c91",
+      "fullName": "binhpd",
+      "address": "17 Thái Bình",
+      "phone": "0362201765",
+      "username": "binhpd",
+      "password": "123"
+    }
+  ]
+}
